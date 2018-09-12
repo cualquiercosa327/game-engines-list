@@ -12,7 +12,7 @@ The following is a list of game engines or games that use shared technology. Thi
 * Donald Duck: Goin' Quackers (2000)
 * Rayman 3 (2003) (PC/PS2/PS3/XBOX/X360)
 
-## Magic Carpet Engine
+## Untitled Bullfrog Engine
 
 ### Games
 
@@ -20,3 +20,4 @@ The following is a list of game engines or games that use shared technology. Thi
 
 * [libsydicate](https://icculus.org/projects/libsyndicate/libsyndicate.html)
 * [Hi Octane - ModdingWiki](http://www.shikadi.net/moddingwiki/Hi_Octane)
+* [Graphics formats supported by IVCon](http://ivcon-tl.sourceforge.net/html/format_swm.php)
