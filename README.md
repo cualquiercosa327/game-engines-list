@@ -16,6 +16,10 @@ The following is a list of game engines or games that use shared technology. Thi
 
 ### Games
 
+* Magic Carpet (1994)
+* Dungeon Keeper (1997)
+* Creation (Cancelled)
+
 ### Resources
 
 * [libsydicate](https://icculus.org/projects/libsyndicate/libsyndicate.html)
