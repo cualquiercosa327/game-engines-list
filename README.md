@@ -16,7 +16,10 @@ The following is a list of game engines or games that use shared technology. Thi
 
 ### Games
 
+* Syndicate (1993)
 * Magic Carpet (1994)
+* Hi-Octane (1995)
+* Magic Carpet 2 (1995)
 * Dungeon Keeper (1997)
 * Creation (Cancelled)
 
