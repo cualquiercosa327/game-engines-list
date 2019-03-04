@@ -6,11 +6,13 @@ The following is a list of game engines or games that use shared technology. Thi
 
 ### Games
 
-* Hype: The Time Quest (1999) (PC)
-* Tonic Trouble (1999) (PC/N64)
-* Rayman 2 (1999) (PC/N64/NDS/N3DS/DC)
+* Alex Builds His Farm (1999) (Windows) (?)
+* Laura's Happy Adventures (1999) (Windows) (?)
+* Hype: The Time Quest (1999) (Windows)
+* Tonic Trouble (1999) (Windows/N64)
+* Rayman 2 (1999) (Windows/N64/NDS/N3DS/DC)
 * Donald Duck: Goin' Quackers (2000)
-* Rayman 3 (2003) (PC/PS2/PS3/XBOX/X360)
+* Rayman 3 (2003) (Windows/PS2/PS3/XBOX/X360)
 
 ## Untitled Bullfrog Engine
 
