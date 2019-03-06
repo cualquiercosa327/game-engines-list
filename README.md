@@ -2,6 +2,14 @@
 
 The following is a list of game engines or games that use shared technology. This list will mostly focus on games that are built using proprietary technology.
 
+## Untitled SCEE Cambridge Engine
+
+### Games
+
+* MediEvil (1998) (PSX)
+* MediEvil 2 (2000) (PSX)
+* C-12: Final Resistance (2001) (PSX)
+
 ## ACP Engine
 
 ### Games
