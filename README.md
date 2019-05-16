@@ -6,9 +6,9 @@ The following is a list of game engines or games that use shared technology. Thi
 
 ### Games
 
-* [MediEvil (Aug 6, 1998) (PSX)](http://hiddenpalace.org/MediEvil_(Aug_6,_1998_prototype))
-* [MediEvil (Jul 9, 1998) (PSX)](http://hiddenpalace.org/MediEvil_(Jul_9,_1998_prototype))
 * [MediEvil (Jun 22, 1998) (PSX)](http://hiddenpalace.org/MediEvil_(Jun_22,_1998_prototype))
+* [MediEvil (Jul 9, 1998) (PSX)](http://hiddenpalace.org/MediEvil_(Jul_9,_1998_prototype))
+* [MediEvil (Aug 6, 1998) (PSX)](http://hiddenpalace.org/MediEvil_(Aug_6,_1998_prototype))
 * MediEvil (1998) (PSX)
 * [MediEvil II (Dec 20, 1999) (PSX)](http://hiddenpalace.org/MediEvil_II_(Dec_20,_1999_prototype))
 * [MediEvil II (Feb 29, 2000) (PSX)](http://hiddenpalace.org/MediEvil_II_(Feb_29,_2000_prototype))
